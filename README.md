@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uday-kiranreddy
 - 👀 I’m interested in ...Front End technologies
-- 🌱 I’m currently learning ...Tailwind Css
+- 🌱 I’m currently learning ...Node.js
 - 💞️ I’m looking to collaborate on ...Open Sources
 - 📫 How to reach me ...udaykiranreddy8050@gmail.com
 
